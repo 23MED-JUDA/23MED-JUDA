@@ -43,13 +43,13 @@
 
 ### 🔥 Projects
 <p align="center">
-  <a href="https://github.com/AhmedJuda/project1">
-    <img src="https://img.shields.io/badge/Project1-React-blue?style=for-the-badge" />
+  <a href="https://github.com/23MED-JUDA/the-third-project-BIS.git">
+    <img src="https://img.shields.io/badge/Project1-Java Script-blue?style=for-the-badge" />
   </a>
-  <a href="https://github.com/AhmedJuda/project2">
-    <img src="https://img.shields.io/badge/Project2-Node.js-green?style=for-the-badge" />
+  <a href="https://github.com/23MED-JUDA/company.git">
+    <img src="https://img.shields.io/badge/Project2-css-green?style=for-the-badge" />
   </a>
-  <a href="https://github.com/AhmedJuda/project3">
+  <a href="https://github.com/23MED-JUDA/Space.git">
     <img src="https://img.shields.io/badge/Project3-Python-yellow?style=for-the-badge" />
   </a>
 </p>
